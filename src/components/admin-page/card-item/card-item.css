@@ -1,0 +1,9 @@
+input {
+    border: none !important;
+    outline: none;
+    padding: 2px;
+}
+
+.editing {
+    background-color: lightcoral;
+}
